@@ -30,8 +30,5 @@ button:active {
 
 #message,
 #score {
-	height: 80px;
-	width: 50%;
-	justify-content: center;
-	font-size: 200%;
+	font-size: 20px;
 }
